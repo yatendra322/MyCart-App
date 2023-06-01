@@ -1,0 +1,20 @@
+.bg-costom {
+    background:#673ab7!important;
+}
+.admin-style .card{
+	border:1px solid blue;
+}
+
+.admin-style .card:hover{
+	background:#e2e2e2;
+}
+.image-down {
+    position: relative;
+    height: 135px;
+    width: 120px;
+}
+.image-down img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
